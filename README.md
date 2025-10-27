@@ -1,30 +1,21 @@
-# Visa Mate 🌍  
-**AI-Powered Visa Application Assistant**
+        # Visa Mate — Next.js Demo
 
-Visa Mate helps clients apply for visas, upload documents, and track their application progress effortlessly — all guided by an intelligent AI assistant.
+AI-powered Visa application demo built for quick deployment on Vercel.
 
----
+## How to run locally
 
-## 🚀 Features
-- Smart AI Visa Assistant (guided chat)
-- Step-by-step visa application form
-- Document upload section
-- Application status tracker
-- Modern, mobile-friendly interface
+1. Install dependencies:
 
----
-
-## 🛠️ Tech Stack
-- React (frontend)
-- Framer Motion (animations)
-- Lucide React (icons)
-- Tailwind UI Components
-
----
-
-## 📦 Installation
 ```bash
-git clone https://github.com/siiinghparminder-hue/visa-mate-demo.git
-cd visa-mate-demo
 npm install
-npm start
+```
+
+2. Run dev server:
+
+```bash
+npm run dev
+```
+
+Open http://localhost:3000
+
+This is a demo (no real backend). Chat responses are simulated. For real AI integration connect to a ChatGPT-compatible API.
